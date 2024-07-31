@@ -1,4 +1,4 @@
-👋 Hi, I am Deepanshu Kushwaha
+👋 Hi, I am Deepanshu Kushwaha,
 🌱 I’m currently learning data science and Business insights
   
 **Email: rachitkushwaha1090@gmail.com , phone No.: 8299381727**
