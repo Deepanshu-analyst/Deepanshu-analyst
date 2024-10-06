@@ -2,8 +2,13 @@
 <h3 align="center">“Turning Data into Stories | Analytical Mind with a Creative Heart | Always Innovating”</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="800" style="border-radius: 10px;" />
 </p>
+
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+</p>
+
 
 
 ---
