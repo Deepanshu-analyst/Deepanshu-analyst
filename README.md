@@ -34,10 +34,14 @@ Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
 ---
 
 ## 📫 Connect with Me
-- **Email**: [rachitkushwaha1090@gmail.com](mailto:rachitkushwaha1090@gmail.com)
-
+## 📫 Connect with Me
+ 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-kushwaha/" target="_blank">
+   </a>
+   <a href="mailto:rachitkushwaha1090@gmail.com" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="30" width="40" />
+      </a>
+ <a href="https://www.linkedin.com/in/deepanshu-kushwaha/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rach_it_99" target="_blank">
