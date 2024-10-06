@@ -8,9 +8,10 @@
 
 ---
 
-**👨‍💻 About Me**
+👨‍💻 **About Me**
 
 I'm Deepanshu Kushwaha, a Business Studies graduate from Manipal University Jaipur, now diving deep into the world of Data Science and Analytics. My expertise lies in creating data-driven solutions that help businesses make informed decisions. From Power BI dashboards to Python analytics scripts, I’ve got a toolkit that can turn raw data into actionable insights.
+
 
 💡 **Key Highlights:**
 - **Data Visualization Expert**: Skilled in Power BI, Tableau, Excel – making data easy to understand and beautiful to look at.
