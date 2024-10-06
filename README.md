@@ -2,7 +2,7 @@
 <h3 align="center">“Turning Data into Stories | Analytical Mind with a Creative Heart | Always Innovating”</h3>
 
 <p align="center">
-  <img src="https://github.com/Deepanshu-analyst/Deepanshu-analyst/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="800" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Deepanshu-analyst/Deepanshu-analyst/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="800" style="border-radius: 10px;" />
 </p>
 
 <div style="display: flex; align-items: center;">
