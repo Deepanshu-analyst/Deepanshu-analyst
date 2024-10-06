@@ -5,13 +5,10 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=deepanshu-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-analyst" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+**👨‍💻 About Me**
 
 I'm Deepanshu Kushwaha, a Business Studies graduate from Manipal University Jaipur, now diving deep into the world of Data Science and Analytics. My expertise lies in creating data-driven solutions that help businesses make informed decisions. From Power BI dashboards to Python analytics scripts, I’ve got a toolkit that can turn raw data into actionable insights.
 
@@ -100,10 +97,3 @@ Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
   <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-analyst&show_icons=true&locale=en" alt="deepanshu-analyst" />
 </p>
 
----
-
-## 💫 Loading Animation
-<div align="center">
-  <p align="center">Loading my data-driven journey...</p>
-  <img src="https://i.gifer.com/4x6t.gif" width="100" />
-</div>
