@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-analyst" /> </p>
+
 ## 👨‍💻 About Me
 
 I'm Deepanshu Kushwaha, a Business Studies graduate from Manipal University Jaipur, now diving deep into the world of Data Science and Analytics. My expertise lies in creating data-driven solutions that help businesses make informed decisions. From Power BI dashboards to Python analytics scripts, I’ve got a toolkit that can turn raw data into actionable insights.
@@ -25,9 +26,6 @@ I’m always learning, currently diving into **Deep Learning** with TensorFlow a
 
 ## 📫 Connect with Me
 - **Email**: Rachitkushwaha1090@gmail.com
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/deepanshu-kushwaha-163bab187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepanshu-kushwaha-163bab187/" height="30" width="40" /></a>
 <a href="https://instagram.com/rach_it_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rach_it_99" height="30" width="40" /></a>
