@@ -5,33 +5,41 @@
   <img src="https://github.com/Deepanshu-analyst/Deepanshu-analyst/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="800" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-</p>
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;">
+    Diving deep into the realm of Data Science and Analytics, with a strong foundation in Business Studies from Manipal University Jaipur. Expertise spans crafting data-driven strategies through Power BI 
+    dashboards, Python analytics, and transforming raw datasets into meaningful insights. Skilled in machine learning and artificial intelligence, consistently innovating solutions to complex problems, helping 
+    businesses optimize operations and make informed decisions.
+  </p>
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="border-radius: 10px;"/>
+</div>
+
 
 ---
 
-👨‍💻 **About Me**
-
-I'm Deepanshu Kushwaha, a Business Studies graduate from Manipal University Jaipur, now diving deep into the world of Data Science and Analytics. My expertise lies in creating data-driven solutions that help businesses make informed decisions. From Power BI dashboards to Python analytics scripts, I’ve got a toolkit that can turn raw data into actionable insights.
-
-💡 **Key Highlights:**
-- **Data Visualization Expert**: Skilled in Power BI, Tableau, Excel – making data easy to understand and beautiful to look at.
-- **Data Science Foundation**: Hands-on experience with Python, SQL, and machine learning libraries like Pandas, Seaborn, and Scikit-learn.
-- **Problem Solver**: Adept at finding solutions using data to improve business operations, reduce churn, and boost customer satisfaction.
+<h3 align="center" style="margin-top: 40px;">💡 Key Highlights:</h3>
+<ul style="max-width: 800px; margin: 0 auto; text-align: justify; padding-left: 20px;">
+  <li style="margin-bottom: 10px;"><strong>Data Visualization Expert</strong>: Skilled in Power BI, Tableau, Excel – making data easy to understand and beautiful to look at.</li>
+  <li style="margin-bottom: 10px;"><strong>Data Science Foundation</strong>: Hands-on experience with Python, SQL, and machine learning libraries like Pandas, Seaborn, and Scikit-learn.</li>
+  <li><strong>Problem Solver</strong>: Adept at finding solutions using data to improve business operations, reduce churn, and boost customer satisfaction.</li>
+</ul>
 
 ---
 
 ## 📊 Projects I'm Proud Of
-- **[Telecom Churn Analysis](https://deepanshu-analyst.github.io/Telecom-Chrun-Analysis/)**: Unveiling customer churn trends for better retention strategies.
-- **[NFT Market Analysis](https://deepanshu-analyst.github.io/NFT-Cryptopunk_Analysis/)**: A deep dive into NFT sales trends and profitability.
-- **[Supermarket Sales Dashboard](https://deepanshu-analyst.github.io/power-BI-project/)**: Analyzing trends, performance, and seasonality for business growth.
+<ul style="text-align: justify; padding-left: 20px;">
+  <li><strong><a href="https://deepanshu-analyst.github.io/Telecom-Chrun-Analysis/" target="_blank">Telecom Churn Analysis</a></strong>: Unveiling customer churn trends for better retention strategies.</li>
+  <li><strong><a href="https://deepanshu-analyst.github.io/NFT-Cryptopunk_Analysis/" target="_blank">NFT Market Analysis</a></strong>: A deep dive into NFT sales trends and profitability.</li>
+  <li><strong><a href="https://deepanshu-analyst.github.io/power-BI-project/" target="_blank">Supermarket Sales Dashboard</a></strong>: Analyzing trends, performance, and seasonality for business growth.</li>
+</ul>
 
 ---
 
 ## 🎓 Education
-**Bachelor of Business Administration** – Manipal University Jaipur (2020-2023)  
-Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
+<p style="text-align: justify; padding-left: 20px;">
+  <strong>Bachelor of Business Administration</strong> – Manipal University Jaipur (2020-2023)  
+  Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
+</p>
 
 ---
 
