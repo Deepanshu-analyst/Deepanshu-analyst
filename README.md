@@ -1,5 +1,6 @@
 <h1 align="center">Hi myself Deepanshu Kushwaha</h1>
 <h3 align="center">“Turning Data into Stories | Analytical Mind with a Creative Heart | Always Innovating”</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-analyst" /> </p>
@@ -31,7 +32,7 @@ Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
 - **Email**: [rachitkushwaha1090@gmail.com](mailto:rachitkushwaha1090@gmail.com)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-kushwaha" target="_blank">
+  <a href="https://www.linkedin.com/in/deepanshu-kushwaha-163bab187/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rach_it_99" target="_blank">
