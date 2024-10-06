@@ -9,7 +9,7 @@
 
 <!-- 3D Avatar -->
 <p align="center">
-  <img src="https://readyplayer.me/gallery/6702594bf43d52f8654f0c62" width="200" height="200" alt="3D Avatar of Deepanshu">
+  <img src="https://models.readyplayer.me/6702594bf43d52f8654f0c62.glb" width="200" height="200" alt="3D Avatar of Deepanshu">
 </p>
 
 <!-- Glitch Text with Neon Effect -->
