@@ -92,11 +92,9 @@ Certified Data Scientist (UPGRAD) and Power BI Virtual Intern (PwC via Forage)
 ---
 
 ## 🌟 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-analyst&show_icons=true&locale=en&layout=compact" alt="deepanshu-analyst" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-analyst&show_icons=true&locale=en" alt="deepanshu-analyst" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-analyst&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-analyst&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+</div>
 
