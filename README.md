@@ -1,73 +1,27 @@
-<h1 align="center">Deepanshu Kushwaha | Data Science Enthusiast & Analyst</h1>
+<h1 align="center">Hi myself Deepanshu Kushwaha</h1>
+<h3 align="center">“Turning Data into Stories | Analytical Mind with a Creative Heart | Always Innovating”</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
-  Lucknow, India | 📧 Rachitkushwaha1090@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/deepanshu-kushwaha-163bab187) | 🔗 [GitHub](your-github-url)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-analyst" /> </p>
+
+- 👯 I’m looking to collaborate on **Anything that doesn't require me to wake up early. But seriously, if you’re into Data Science and some Power BI magic, hit me up.**
+
+- 🌱Right now, I’m sharpening my skills in: **Deep Learning, TensorFlow, Keras, and of course, managing the sheer panic when I open a new data set.**
+
+- 📫 How to reach me **Rachitkushwaha1090@gmail.com**
+
+- ⚡ Fun fact **I'm always up for a challenge... especially if it involves solving complex datasets or ordering another cup of coffee!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/deepanshu-kushwaha-163bab187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepanshu-kushwaha-163bab187" height="30" width="40" /></a>
+<a href="https://instagram.com/rach_it_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rach_it_99" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rachit_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachit_99" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🛠 **Technical Skills**
-- **Data Visualization**: Power BI, Tableau, Advanced Excel, Data Storytelling  
-- **Programming**: Python (Pandas, Seaborn), SQL (MySQL, SQL Server)  
-- **Data Modelling & Cleaning**: Power Query, DAX, M-Query  
-- **Other**: Generative AI, Data Analysis, Data Reporting
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-analyst&show_icons=true&locale=en&layout=compact" alt="deepanshu-analyst" /></p>
 
----
-
-## 📊 **Professional Experience**
-### **PwC (Virtual Internship via Forage)**
-- Created **Call Centre Performance Report**, achieving a 3.4/5 customer rating and setting key KPIs for trend analysis.
-- Developed a **Churn Analysis Report** for 7043 customers, uncovering a **26.54% churn rate** using Power BI and DAX, helping to inform actionable business strategies.
-- Designed a **Diversity & Inclusion Report** harmonizing workforce data for 500 employees.
-
----
-
-## 🚀 **Projects**
-
-### [**Telecom Churn Analysis**](https://github.com/your-link)
-- Analyzed a dataset of 7043 telecom customers with a **26.54% churn rate** using Python’s Pandas for data manipulation.
-- Visualized churn drivers with **Matplotlib** and **Seaborn** based on tenure, monthly charges, and contract types.
-- Provided data-backed recommendations for reducing customer churn.
-
-### [**NFT Price and Sales Data Analysis**](https://github.com/your-link)
-- Conducted an in-depth analysis on **7500+ NFT sales** (2018-2021), identifying a **50% price increase** in 2021 and key transaction trends.
-- Highlighted the top 5 highest-value transactions, exceeding $190K USD, and analyzed **50-day moving averages** for trend predictions.
-- Mapped the **price distribution** showing 30% of sales in the **10-50 ETH** range.
-
-### [**Supermarket Sales Analysis**](https://github.com/your-link)
-- Developed an interactive **Power BI Dashboard** for supermarket sales (2021-2022) displaying KPIs like total sales, transaction value, and seasonal variations.
-- Provided actionable insights for inventory management and promotional strategies, leading to improved decision-making.
-
-### [**Coffee Shop Retail Sales Analysis**](https://github.com/your-link)
-- Analyzed sales data across multiple store locations using Excel, identifying trends like **peak sales hours**, top-selling products, and customer behavior.
-- Built an operable **Excel Dashboard** visualizing sales metrics such as footfall, average order size, and staffing needs.
-- Recommendations led to **inventory optimization** and targeted promotional strategies.
-
----
-
-## 🎓 **Education**
-- **Bachelor of Business Administration**  
-  *Manipal University Jaipur* | 08/2020 – 06/2023
-
----
-
-## 📜 **Certifications**
-- **Data Science Bootcamp** (UPGRAD) | 11/2023 – 04/2024
-- **PwC Power BI Job Simulation** (Forage) | 06/2024 – 07/2024
-
----
-
-## 🌱 **Currently Learning**
-- **Deep Learning**: TensorFlow, Keras, PyTorch  
-- **Advanced Analytics**: Data Modeling, Machine Learning Techniques
-
----
-
-## 📫 **Let's Connect**
-- **LinkedIn**: [Your LinkedIn Profile](your-linkedin-url)  
-- **Email**: deepanshu.data.whiz@gmail.com
-
----
-
-## ⚡ **Fun Fact**
-*I'm always up for a challenge... especially if it involves solving complex datasets or ordering another cup of coffee!*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-analyst&show_icons=true&locale=en" alt="deepanshu-analyst" /></p>
