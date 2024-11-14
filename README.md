@@ -49,7 +49,7 @@
   <a href="mailto:rachitkushwaha1090@gmail.com" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="40" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deepanshu-kushwaha/" target="_blank">
+  <a href="https://www.linkedin.com/in/deepanshu-kushwaha-163bab187/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/rach_it_99" target="_blank">
